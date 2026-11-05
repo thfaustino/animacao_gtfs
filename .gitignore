@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+
+# Arquivos de dados e compactados
+*.csv
+*.zip
+*.gz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.tar
+*.tgz
+*.parquet
+*.feather
+*.xlsx
+*.xls
+
+# Ambientes virtuais e caches
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruffgit_cache/
+
+*.mp4

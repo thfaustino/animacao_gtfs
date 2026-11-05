@@ -1,0 +1,7 @@
+pandas>=2.0.0
+numpy>=1.24.0
+shapely>=2.0.0
+geopandas>=0.13.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+imageio-ffmpeg>=0.4.9
